@@ -1,4 +1,4 @@
-# twttr_Prsr
+# dkh_prctc_app
 This repository is for practice working with API of Twitter.
 
 I just writing some scripts to help me become more familiar with the concepts around using API. I will mostly program in python for now as I'm wanting to become more familiar with it as well. This project will follow the following step
